@@ -61,5 +61,3 @@ This EDA project on IPL data provides useful insights into match outcomes, team 
 For any questions or feedback, feel free to reach out via email: sanojkumar327@gmail.com
 
 ---
-
-You can modify the GitHub repository link and contact email address as needed. This README provides a clear overview of your project, datasets, tools, and steps for replication.
